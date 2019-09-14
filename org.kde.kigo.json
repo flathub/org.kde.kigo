@@ -20,8 +20,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.0/src/libkdegames-19.08.0.tar.xz",
-                    "sha256": "cb1135a86b373543410f3eb0677aed033bad2b8ef60130753c699338e0c22d1b"
+                    "url": "https://download.kde.org/stable/applications/19.08.1/src/libkdegames-19.08.1.tar.xz",
+                    "sha256": "1b365627bd0a3a42a32a0a8d401b53d2ac09f0f9cf040b4b0483c5574991b774"
                 } 
             ]
         },
@@ -41,8 +41,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.0/src/kigo-19.08.0.tar.xz",
-                    "sha256": "0100195b3289b88b9813e453fc7ec6229a648718a6525bb3e6d0e0c0ead97595"
+                    "url": "https://download.kde.org/stable/applications/19.08.1/src/kigo-19.08.1.tar.xz",
+                    "sha256": "7afc2e08192d7e7bf17d67e00aebc498e37b40b47ce78cb7cf2d943a5563817b"
                 } 
             ]
         }
