@@ -26,6 +26,9 @@
         },
         {
             "name": "gnugo",
+            "build-options" : {
+                "cflags": "-fcommon"
+            },
             "sources": [
                 {
                     "type": "archive",
