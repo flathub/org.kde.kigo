@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/libkdegames-21.08.0.tar.xz",
-                    "sha256": "2b55f9e2858cfeabfe8d1a8f3772bb0df88f583c65b4a4e3b0dc2a8db6ac7159"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/libkdegames-21.08.1.tar.xz",
+                    "sha256": "51de56a9f714085ceed2d3200852c1e33b7847768336d02524b07ce3f51cdd6d"
                 } 
             ]
         },
@@ -43,8 +43,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/kigo-21.08.0.tar.xz",
-                    "sha256": "3b25433494d8be7cbfb07efbbb0ff434d0d9cd1bbc4f3f028c15c10ee812d5cf"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kigo-21.08.1.tar.xz",
+                    "sha256": "873407690e79c0e2cf6e8d44ca5f573afafae079539fbfca088a3ccb5482eef8"
                 } 
             ]
         }
