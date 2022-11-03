@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.2/src/kigo-22.08.2.tar.xz",
-                    "sha256": "8be43c99a31e97a67e20ead89bf6229f8d892241a870e9c8571bcf886e3047b8",
+                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kigo-22.08.3.tar.xz",
+                    "sha256": "8c438595133171c684109152ac075a643793d81b27cd9d3c060be2540cc53f30",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
