@@ -55,8 +55,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/kigo-23.04.1.tar.xz",
-                    "sha256": "ac66976fccb9507a656d27687f1148b4fb20f28b53243631fd4bdcb73f2c60ce",
+                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kigo-23.04.2.tar.xz",
+                    "sha256": "427c411fc1dee6e0961e5fe257ec38bc7cf53de59a359c1ace270576ac33ee52",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
